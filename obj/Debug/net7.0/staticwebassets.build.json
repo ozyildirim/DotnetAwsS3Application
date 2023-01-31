@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g9S0Yca0otgkuSd0isRWs5I2hJsJSrUaR72FJwrCau0=",
+  "Source": "DotnetAwsS3Application",
+  "BasePath": "_content/DotnetAwsS3Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

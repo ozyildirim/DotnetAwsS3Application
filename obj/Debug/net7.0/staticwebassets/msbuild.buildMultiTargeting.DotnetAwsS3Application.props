@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DotnetAwsS3Application.props" />
+</Project>
